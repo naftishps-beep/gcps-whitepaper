@@ -8,7 +8,7 @@ Open protocol for uniting 8+ billion verified minds in collective progress — w
 
 ## Quick Links
 - 📄 [Read Whitepaper (PDF)](GCPS.pdf)  
-- 🌐 [Website](https://твоя-ссылка-на-carrd.co)  
+- 🌐 [Website](https://t.co/f6ax5jsMb4)  
 - 🐦 [Discuss on X](https://x.com/PavelS38599)
 
 ## Overview
