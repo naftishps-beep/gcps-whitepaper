@@ -7,8 +7,9 @@
 Open protocol for uniting 8+ billion verified minds in collective progress — without competition, profit, or manipulation.
 
 ## Quick Links
-- 📄 [Read Whitepaper (PDF)](GCPS.pdf)  
-- 🌐 [Website](https://t.co/f6ax5jsMb4)  
+- 📥 [Download PDF (v1.6)](https://github.com/naftishps-beep/gcps-whitepaper/raw/main/GCPS.pdf)
+- 📄 [Read Markdown version online](https://github.com/naftishps-beep/gcps-whitepaper/blob/main/GCPS.md)
+- 🌐 [Project Website](https://gcps.carrd.co/) 
 - 🐦 [Discuss on X](https://x.com/PavelS38599)
 
 ## Overview
